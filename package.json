@@ -1,0 +1,33 @@
+{
+    "name": "telebot-template",
+    "version": "1.0.0",
+    "main": "index.ts",
+    "repository": "https://github.com/cre8tion/telebot-template",
+    "author": "Cre8tion <ljl1997@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "dotenv": "^16.3.1",
+        "eslint": "^8.56.0",
+        "eslint-config-prettier": "^9.1.0",
+        "nodemon": "^3.0.2",
+        "prettier": "^3.2.1",
+        "telegraf": "^4.15.3",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.3.3"
+    },
+    "scripts": {
+        "build": "npx tsc",
+        "start": "node dist/index.js",
+        "dev": "nodemon index.ts",
+        "lint": "npx eslint .",
+        "prettify": "yarn prettier . --write"
+    },
+    "devDependencies": {
+        "@types/node": "^20.11.2",
+        "@typescript-eslint/eslint-plugin": "^6.18.1",
+        "@typescript-eslint/parser": "^6.18.1"
+    },
+    "engines": {
+        "node": ">=20.11.0"
+    }
+}
