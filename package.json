@@ -6,7 +6,7 @@
     "author": "Cre8tion <ljl1997@gmail.com>",
     "license": "MIT",
     "dependencies": {
-        "dotenv": "^16.3.1",
+        "dotenv": "^16.4.1",
         "eslint": "^8.56.0",
         "eslint-config-prettier": "^9.1.0",
         "nodemon": "^3.0.3",
