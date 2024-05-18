@@ -7,9 +7,9 @@
     "license": "MIT",
     "dependencies": {
         "dotenv": "^16.4.5",
-        "eslint": "^8.56.0",
+        "eslint": "^8.57.0",
         "eslint-config-prettier": "^9.1.0",
-        "nodemon": "^3.0.3",
+        "nodemon": "^3.1.0",
         "prettier": "^3.2.5",
         "telegraf": "^4.15.3",
         "ts-node": "^10.9.2",
@@ -23,8 +23,8 @@
         "prettify": "yarn prettier . --write"
     },
     "devDependencies": {
-        "@types/node": "^20.11.17",
-        "@typescript-eslint/eslint-plugin": "^6.20.0",
+        "@types/node": "^20.12.11",
+        "@typescript-eslint/eslint-plugin": "^6.21.0",
         "@typescript-eslint/parser": "^6.21.0"
     },
     "engines": {
