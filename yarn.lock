@@ -134,10 +134,10 @@
   resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.15.tgz#596a1747233694d50f6ad8a7869fcb6f56cf5841"
   integrity sha512-5+fP8P8MFNC+AyZCDxrB2pkZFPGzqQWUzpSeuuVLvm8VMcorNYavBqoFcxK8bQz4Qsbn4oUEEem4wDLfcysGHA==
 
-"@types/node@^20.17.17":
-  version "20.17.17"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.17.17.tgz#5cea2af2e271313742c14f418eaf5dcfa8ae2e3a"
-  integrity sha512-/WndGO4kIfMicEQLTi/mDANUu/iVUhT7KboZPdEqqHQ4aTS+3qT3U5gIqWDFV+XouorjfgGqvKILJeHhuQgFYg==
+"@types/node@^20.17.20":
+  version "20.17.20"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.17.20.tgz#b40fc757432bf2fa6316dddf97b0bd99d2af4d05"
+  integrity sha512-kznqACh6lD8RcRddN9YYwd1xG+3Tb5PaL5GVKwKsjw8OtffI6Xz2xxC7ePv8Jza2F+oNBLnFdJf1d6ypQFA9pA==
   dependencies:
     undici-types "~6.19.2"
 
